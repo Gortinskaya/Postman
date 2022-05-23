@@ -48,6 +48,7 @@ request form data:
 - в столбец "KEY" : "name", "age" и "salary"
 - в столбец "VALUE" : "Mari", "30" и "2000" напротив ключей "name", "age" и "salary" соответственно
 3. нажать Save и Send
+
 response:
 {
     "age": "30",
@@ -85,6 +86,7 @@ request url params:
 - в столбец "KEY" : "name", "age" и "weight"
 - в столбец "VALUE" : "Mari", "30" и "60" напротив ключей "name", "age" и "weight" соответственно
 3. нажать Save и Send
+
 response:
 {
     "age": 30,
@@ -110,6 +112,7 @@ request url params:
 - в столбец "KEY" : "name", "age" и "salary"
 - в столбец "VALUE" : "Mari", "30" и "2000" напротив ключей "name", "age" и "salary" соответственно
 3. нажать Save и Send
+
 response:
 {
     "person": {
@@ -145,6 +148,7 @@ request url params:
 - в столбец "KEY" : "name", "age" и "salary"
 - в столбец "VALUE" : "Mari", "30" и "2000" напротив ключей "name", "age" и "salary" соответственно
 3. нажать Save и Send
+
 response:
 {
     "age": "30",
@@ -192,6 +196,7 @@ request url params:
 - в столбец "KEY" : "name", "age" и "salary"
 - в столбец "VALUE" : "Mari", "30" и "2000" напротив ключей "name", "age" и "salary" соответственно
 3. нажать Save и Send 
+
 response:
 {
     "age": 30,
@@ -219,6 +224,7 @@ request form data:
 - в столбец "KEY" : "name", "age" и "salary"
 - в столбец "VALUE" : "Mari", "30" и "2000" напротив ключей "name", "age" и "salary" соответственно
 3. нажать Save и Send
+
 response:
 {
     "person": {
