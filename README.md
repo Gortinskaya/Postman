@@ -1,21 +1,13 @@
 # Postman. HW_1
-<p><a href="#1_1">EP_1/get_method</a></p>
+<p><a href="#1">EP_1/get_method</a></p>
+<p><a href="#2">EP_2/user_info_3</a></p>
+<p><a href="#3">EP_3/object_info_1</a></p>
+<p><a href="#4">EP_4/object_info_2</a></p>
+<p><a href="#5">EP_5/object_info_3</a></p>
+<p><a href="#6">EP_6/object_info_4</a></p>
+<p><a href="#7">EP_7/user_info_2</a></p>
 
-[EP_1/get_method](#a-name1ep1a)
-
-[EP_2/user_info_3](#a-name2ep2a)
-
-[EP_3/object_info_1](#a-name3ep3a)
-
-[EP_4/object_info_2](#a-name4ep4a)
-
-[EP_5/object_info_3](#a-name5ep5a)
-
-[EP_6/object_info_4](#a-name6ep6a)
-
-[EP_7/user_info_2](#a-name7ep7a)
-
-____________________________
+___________________________
 
 ### Создать запросы в Postman.
 
@@ -25,9 +17,7 @@ IP: 162.55.220.72
 
 Port: 5005
 ________
-# <a name="1">EP_1</a> 
-
-# <p><a name="1_1">EP_1_1</a></p>
+# <p><a name="1">EP_1</a></p>
 Method: GET
 
 EndPoint: /get_method
@@ -51,7 +41,7 @@ response:
 ]
 
  _____________________
-# <a name="2">EP_2</a>
+# <p><a name="2">EP_2</a></p>
 Method: POST
 
 EndPoint: /user_info_3
@@ -90,7 +80,7 @@ response:
 }
 
  _________________________
-# <a name="3">EP_3</a>
+# <p><a name="3">EP_3</a></p>
 Method: GET
 
 EndPoint: /object_info_1
@@ -116,7 +106,7 @@ response:
 }
 
  _____________________________
-# <a name="4">EP_4</a>
+# <p><a name="4">EP_4</a></p>
 Method: GET
 
 EndPoint: /object_info_2
@@ -152,7 +142,7 @@ response:
 }
 
  ________________________________
-# <a name="5">EP_5</a>
+# <p><a name="5">EP_5</a></p>
 Method: GET
 
 EndPoint: /object_info_3
@@ -200,7 +190,7 @@ response:
 }
 
  ____________________________________ 
- # <a name="6">EP_6</a>
+ # <p><a name="6">EP_6</a></p>
 Method: GET
 
 EndPoint: /object_info_4
@@ -228,7 +218,7 @@ response:
     ]
 }
  ________________________________________
- # <a name="7">EP_7</a>
+# <p><a name="7">EP_7</a></p>
 Method: POST
 
 EndPoint: /user_info_2
