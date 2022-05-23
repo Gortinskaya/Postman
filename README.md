@@ -1,7 +1,6 @@
 # Postman. HW_1
-[EP_1/get_method](#a-name1ep1a)
-
-[EP_2/user_info_3](#a-name2ep2a)
+##### [EP_1/get_method](#a-name1ep1a)
+##### [EP_2/user_info_3](#a-name2ep2a)
 
 [EP_3/object_info_1](#a-name3ep3a)
 
