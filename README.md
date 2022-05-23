@@ -1,5 +1,5 @@
 # Postman. HW_1
-<a name="1">EP_1//get_method</a>
+<a name="1">EP_1/get_method</a>
 
 [EP_2/user_info_3](#a-name2ep2a)
 
@@ -23,7 +23,7 @@ IP: 162.55.220.72
 
 Port: 5005
 ________
-# [EP_1/get_method](#a-name1ep1a) <a name="1">EP_1</a>
+# [EP_1/get_method](#a-name1ep1a) 
 Method: GET
 
 EndPoint: /get_method
