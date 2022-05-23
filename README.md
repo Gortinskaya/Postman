@@ -1,4 +1,20 @@
 # Postman. HW_1
+[EP_1/get_method](#a-nameep1ep1a)
+
+[EP_2/user_info_3](#a-nameep1ep2a)
+
+[EP_3/object_info_1](#a-nameep3ep3a)
+
+[EP_4/object_info_2](#a-nameep4ep4a)
+
+[EP_5/object_info_3](#a-nameep5ep5a)
+
+[EP_6/object_info_4](#a-nameep6ep6a)
+
+[EP_7/user_info_2](#a-nameep7ep7a)
+
+____________________________
+
 ### Создать запросы в Postman.
 
 Protocol: http
@@ -7,7 +23,7 @@ IP: 162.55.220.72
 
 Port: 5005
 ________
-# EP_1
+ # <a name="EP_1">EP_1</a>
 Method: GET
 
 EndPoint: /get_method
@@ -31,7 +47,7 @@ response:
 ]
 
  _____________________
-# EP_2
+# <a name="EP_2">EP_2</a>
 Method: POST
 
 EndPoint: /user_info_3
@@ -70,7 +86,7 @@ response:
 }
 
  _________________________
-# EP_3
+# <a name="EP_3">EP_3</a>
 Method: GET
 
 EndPoint: /object_info_1
@@ -96,7 +112,7 @@ response:
 }
 
  _____________________________
-# EP_4
+# <a name="EP_4">EP_4</a>
 Method: GET
 
 EndPoint: /object_info_2
@@ -132,7 +148,7 @@ response:
 }
 
  ________________________________
-# EP_5
+# <a name="EP_5">EP_5</a>
 Method: GET
 
 EndPoint: /object_info_3
@@ -180,7 +196,7 @@ response:
 }
 
  ____________________________________ 
-# EP_6
+ # <a name="EP_6">EP_6</a>
 Method: GET
 
 EndPoint: /object_info_4
@@ -208,7 +224,7 @@ response:
     ]
 }
  ________________________________________
-# EP_7
+ # <a name="EP_7">EP_7</a>
 Method: POST
 
 EndPoint: /user_info_2
