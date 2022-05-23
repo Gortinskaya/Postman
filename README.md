@@ -1,17 +1,17 @@
 # Postman. HW_1
-[EP_1/get_method](#a-nameep1ep1a)
+[EP_1/get_method](#a-name1ep1a)
 
-[EP_2/user_info_3](#a-nameep1ep2a)
+[EP_2/user_info_3](#a-name2ep2a)
 
-[EP_3/object_info_1](#a-nameep3ep3a)
+[EP_3/object_info_1](#a-name3ep3a)
 
-[EP_4/object_info_2](#a-nameep4ep4a)
+[EP_4/object_info_2](#a-name4ep4a)
 
-[EP_5/object_info_3](#a-nameep5ep5a)
+[EP_5/object_info_3](#a-name5ep5a)
 
-[EP_6/object_info_4](#a-nameep6ep6a)
+[EP_6/object_info_4](#a-name6ep6a)
 
-[EP_7/user_info_2](#a-nameep7ep7a)
+[EP_7/user_info_2](#a-name7ep7a)
 
 ____________________________
 
@@ -23,7 +23,7 @@ IP: 162.55.220.72
 
 Port: 5005
 ________
- # <a name="EP_1">EP_1</a>
+ # <a name="1">EP_1</a>
 Method: GET
 
 EndPoint: /get_method
@@ -47,7 +47,7 @@ response:
 ]
 
  _____________________
-# <a name="EP_2">EP_2</a>
+# <a name="2">EP_2</a>
 Method: POST
 
 EndPoint: /user_info_3
@@ -86,7 +86,7 @@ response:
 }
 
  _________________________
-# <a name="EP_3">EP_3</a>
+# <a name="3">EP_3</a>
 Method: GET
 
 EndPoint: /object_info_1
@@ -112,7 +112,7 @@ response:
 }
 
  _____________________________
-# <a name="EP_4">EP_4</a>
+# <a name="4">EP_4</a>
 Method: GET
 
 EndPoint: /object_info_2
@@ -148,7 +148,7 @@ response:
 }
 
  ________________________________
-# <a name="EP_5">EP_5</a>
+# <a name="5">EP_5</a>
 Method: GET
 
 EndPoint: /object_info_3
@@ -196,7 +196,7 @@ response:
 }
 
  ____________________________________ 
- # <a name="EP_6">EP_6</a>
+ # <a name="6">EP_6</a>
 Method: GET
 
 EndPoint: /object_info_4
@@ -224,7 +224,7 @@ response:
     ]
 }
  ________________________________________
- # <a name="EP_7">EP_7</a>
+ # <a name="7">EP_7</a>
 Method: POST
 
 EndPoint: /user_info_2
