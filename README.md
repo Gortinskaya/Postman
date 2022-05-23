@@ -23,6 +23,7 @@ request url params:
 - в столбец "KEY" : "name" и "age"
 - в столбец "VALUE" : "Mari" и "30" напротив ключей "name" и "age" соответственно
 3. нажать Save и Send
+
 response:
 [
     "Mari",
