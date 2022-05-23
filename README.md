@@ -33,7 +33,7 @@ request url params:
  1. name: str
  2. age: int
  
-### Создать "New Request", переименовать в "EP_1"
+ **Создать "New Request", переименовать в "EP_1"**
 1. Выбрать метод GET, в поле "Enter request URL" после порта дописать "/get_method"
 2. выбрать "Params"
 - в столбец "KEY" : "name" и "age"
@@ -58,7 +58,7 @@ request form data:
  2. age: int
  3. salary: int
 
-### Создать "New Request", переименовать в "EP_2"
+**Создать "New Request", переименовать в "EP_2"**
 1. Выбрать метод POST, в поле "Enter request URL" после порта дописать "/user_info_3"
 2. выбрать "body"
 - в столбец "KEY" : "name", "age" и "salary"
@@ -96,7 +96,7 @@ request url params:
  2. age: int
  3. weight: int
 
- ### Создать "New Request", переименовать в "EP_3"
+ **Создать "New Request", переименовать в "EP_3"**
 1. Выбрать метод GET, в поле "Enter request URL" после порта дописать "/object_info_1"
 2. выбрать "Params"
 - в столбец "KEY" : "name", "age" и "weight"
@@ -122,7 +122,7 @@ request url params:
  2. age: int
  3. salary: int
 
-### Создать "New Request", переименовать в "EP_4"
+**Создать "New Request", переименовать в "EP_4"**
 1. Выбрать метод GET, в поле "Enter request URL" после порта дописать "/object_info_2"
 2. выбрать "Params"
 - в столбец "KEY" : "name", "age" и "salary"
@@ -158,7 +158,7 @@ request url params:
  2. age: int
  3. salary: int
 
- ### Создать "New Request", переименовать в "EP_5"
+ **Создать "New Request", переименовать в "EP_5"**
 1. Выбрать метод GET, в поле "Enter request URL" после порта дописать "/object_info_3"
 2. выбрать "Params"
 - в столбец "KEY" : "name", "age" и "salary"
@@ -206,7 +206,7 @@ request url params:
  2. age: int
  3. salary: int
 
-### Создать "New Request", переименовать в "EP_6"
+**Создать "New Request", переименовать в "EP_6"**
 1. Выбрать метод GET, в поле "Enter request URL" после порта дописать "/object_info_4"
 2. выбрать "Params"
 - в столбец "KEY" : "name", "age" и "salary"
@@ -234,7 +234,7 @@ request form data:
  2. age: int
  3. salary: int
 
-## Создать "New Request", переименовать в "EP_4"
+**Создать "New Request", переименовать в "EP_4"**
 1. Выбрать метод POST, в поле "Enter request URL" после порта дописать "/user_info_2"
 2. выбрать "Body"
 - в столбец "KEY" : "name", "age" и "salary"
