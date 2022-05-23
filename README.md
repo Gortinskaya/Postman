@@ -1,5 +1,5 @@
 # Postman. HW_1
-[EP_1/get_method](#a-name1ep1a)
+![EP_1/get_method](#a-name1ep1a)
 
 [EP_2/user_info_3](#a-name2ep2a)
 
