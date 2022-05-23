@@ -1,5 +1,5 @@
 # Postman. HW_1
-<p><a href="#1_1">[EP_1/get_method]</a></p>
+<p><a href="#1_1">EP_1/get_method</a></p>
 
 [EP_1/get_method](#a-name1ep1a)
 
